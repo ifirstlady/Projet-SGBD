@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bdd>
+		<entite1 id="e1">
+			<nomEntite>
+				Source
+			</nomEntite>
+			<attribut>
+				<id>
+					1000
+				</id>
+				<nom>
+					GUEYE
+				</nom>
+				<prenom>
+					Dior
+				</prenom>
+			</attribut>
+			<cardinalite>
+				0..1
+			</cardinalite>
+		
+
+		</entite1>
+
+		<entite2 id="e2">
+			<nomEntite>
+				Source
+			</nomEntite>
+			<attribut>
+				<id>
+					2000
+				</id>
+				<nom>
+					TOUNKARA
+				</nom>
+				<prenom>
+					Bineta
+				</prenom>
+			</attribut>
+			<cardinalite>
+				0..1
+			</cardinalite>
+		
+		
+		</entite2>
+
+		<association id="a1">
+			<nomAssos>
+				Transmettre
+			</nomAssos>
+			<attribut>
+				<date>
+					22/02/2019
+				</date>
+			</attribut>
+		</association>
+</bdd>
