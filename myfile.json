@@ -1,0 +1,22 @@
+
+{
+  "Source": {
+    "id": "1000",
+    "nom": "GUEYE",
+    "Prenom": "Dior",
+    "Card": "0.1"
+  }
+  ,
+  
+  "Destination": {
+    "id": "2000",
+    "nom": "TOUNKARA",
+    "Prenom": "Bineta",
+    "Card": "0.1"
+  }
+  ,
+
+  "Transmettre": {
+    "Date": "22/02/2019"
+  }
+}
